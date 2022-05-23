@@ -2,7 +2,7 @@
 
 ## Topics
 
-### Generating Sloths
+### Generating a Sloth
 
 - ``generateSloth(in:)``
 

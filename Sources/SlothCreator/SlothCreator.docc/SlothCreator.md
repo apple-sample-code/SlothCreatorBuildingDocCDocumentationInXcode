@@ -21,20 +21,20 @@ You can visualize and observe your sloths by adding a ``SlothView`` to a SwiftUI
 - <doc:GettingStarted>
 - ``Sloth``
 
-### Creating Sloths
+### Sloth Creation
 
 - ``SlothGenerator``
 - ``NameGenerator``
 - ``Habitat``
 
-### Caring for Sloths
+### Care and Feeding
 
 - ``Activity``
 - ``CareSchedule``
 - ``FoodGenerator``
 - ``Sloth/Food``
 
-### Viewing Sloths
+### Sloth Views
 
 - ``SlothView``
 - ``HabitatView``

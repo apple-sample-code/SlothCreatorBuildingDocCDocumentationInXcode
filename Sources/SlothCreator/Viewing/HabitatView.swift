@@ -14,6 +14,9 @@ import SwiftUI
 /// ## Topics
 /// ### Creating a Habitat View
 /// - ``init(habitat:)``
+///
+/// ### Implementing the View
+/// - ``body``
 public struct HabitatView: View {
     var habitat: Habitat
     

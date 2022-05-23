@@ -2,7 +2,7 @@
 
 ## Topics
 
-### Generating Names
+### Generating a Sloth Name
 
 - ``generateName(seed:)``
 

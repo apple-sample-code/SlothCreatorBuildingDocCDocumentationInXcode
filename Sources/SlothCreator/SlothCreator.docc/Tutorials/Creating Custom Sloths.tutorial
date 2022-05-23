@@ -6,7 +6,7 @@
     }
     
     @Section(title: "Create a new project and add SlothCreator") {
-        @ContentAndMedia(layout: horizontal) {
+        @ContentAndMedia {
             Create and configure an Xcode project that uses SlothCreator.
             
             @Image(source: 01-creating-section1.png, alt: "An arrow pointing from the SlothCreator framework icon to the Xcode app project icon.")
@@ -44,7 +44,7 @@
     }
     
     @Section(title: "Add a customization view") {
-        @ContentAndMedia(layout: horizontal) {
+        @ContentAndMedia {
             Add the ability for users to customize sloths and select their powers.
             
             @Image(source: 01-creating-section2.png, alt: "An outline of a sloth surrounded by four power type icons. The power type icons are arranged in the following order, clockwise from the top: fire, wind, lightning, and ice.")

@@ -2,7 +2,7 @@
 
 ## Topics
 
-### Colors
+### Getting the Standard Colors
 
 - ``green``
 - ``orange``
@@ -18,3 +18,8 @@
 ### Comparing Colors
 
 - ``!=(_:_:)``
+
+### Creating a Custom Color
+
+- ``init(rawValue:)``
+

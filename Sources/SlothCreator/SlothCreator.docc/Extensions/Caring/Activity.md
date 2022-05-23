@@ -2,7 +2,7 @@
 
 ## Topics
 
-### Performing Activities
+### Performing an Activity
 
 - ``perform(with:)``
 - ``Speed``

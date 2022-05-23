@@ -12,6 +12,9 @@ import SwiftUI
 /// ## Topics
 /// ### Creating a Power Picker
 /// - ``init(power:)``
+///
+/// ### Implementing the View
+/// - ``body``
 public struct PowerPicker: View {
     @Binding var power: Sloth.Power
     

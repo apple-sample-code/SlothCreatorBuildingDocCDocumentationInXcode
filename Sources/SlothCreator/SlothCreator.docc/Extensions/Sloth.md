@@ -7,25 +7,25 @@
 - ``init(name:color:power:)``
 - ``SlothGenerator``
 
-### Activities
+### Engaging in Activities
 
 - ``eat(_:quantity:)``
 - ``sleep(in:for:)``
 
-### Schedule
+### Getting the Sloth's Schedule
 
 - ``schedule``
 
-### Identity
+### Getting the Sloth's Identity
 
 - ``name``
 
-### Visual Attributes
+### Getting Visual Attributes
 
 - ``color-swift.property``
 - ``Color-swift.enum``
 
-### Magical Abilities
+### Getting Magical Abilities
 
 - ``power-swift.property``
 - ``Power-swift.enum``

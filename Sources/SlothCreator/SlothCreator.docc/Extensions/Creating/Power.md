@@ -2,7 +2,7 @@
 
 ## Topics
 
-### Power Categories
+### Getting the Power Categories
 
 - ``ice``
 - ``fire``
@@ -19,3 +19,8 @@
 ### Comparing Powers
 
 - ``!=(_:_:)``
+
+### Creating a Custom Power
+
+- ``init(name:color:power:)``
+- ``init(rawValue:)``

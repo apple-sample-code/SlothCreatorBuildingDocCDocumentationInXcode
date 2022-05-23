@@ -2,16 +2,16 @@
 
 ## Topics
 
-### Meals
+### Getting Meal Information
 
 - ``breakfast``
 - ``lunch``
 - ``dinner``
 
-### Rest
+### Getting Rest Data
 
 - ``bedtime``
 
-### Custom Events
+### Creating Custom Events
 
 - ``activity(_:)``

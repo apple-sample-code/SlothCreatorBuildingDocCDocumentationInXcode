@@ -2,12 +2,16 @@
 
 ## Topics
 
-### Attributes
+### Creating a Food Item
+
+- ``init(name:energy:)``
+
+### Getting the Food Details
 
 - ``name``
 - ``energy``
 
-### Default Foods
+### Getting the Default Foods
 
 - ``largeLeaf``
 - ``regularLeaf``
